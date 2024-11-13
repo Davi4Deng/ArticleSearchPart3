@@ -10,6 +10,8 @@ Time spent: **X** hours spent in total <!-- Replace 'X' with the number of hours
 
 ## Application Features
 
+![ArticleSearchPart3](https://github.com/user-attachments/assets/bc61f7f7-63c1-4a5d-a09d-b85d6b114c9a)
+
 ### Required Features
 
 The following **required** functionality is completed:
@@ -34,7 +36,7 @@ The following **stretch** functionality is implemented:
   - Displays a list of popular articles on a custom home screen.
   - ![GIF showing Home screen with popular articles](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
-- [ ] (2 pts) **Respond to device orientation changes without resetting the application**
+- [x] (2 pts) **Respond to device orientation changes without resetting the application**
   - Ensures app content maintains its state across orientation changes.
   - ![GIF showing orientation change handling](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
